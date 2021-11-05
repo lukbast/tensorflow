@@ -1,0 +1,7 @@
+models/
+logs/
+env/
+embeddings/
+data/
+__pycache__/
+.idea/
